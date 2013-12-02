@@ -1,0 +1,7 @@
+* android cihaza dosya gönderme ve alma (push/pull)
+* normalde cihazın kendi terminalinden bazı alanlara yazma izini yoktur ama adb push a izin var
+
+adb push doomed.sh /data/local/tmp/doomed.sh7 KB/s
+(326 bytes in 0.045s)
+
+-o-

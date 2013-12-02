@@ -1,0 +1,10 @@
+adb push doomed2 /data/local/tmp/.
+adb push run_root_shell /data/local/tmp/.
+adb push busybox /data/local/tmp/.
+adb push su /data/local/tmp/.
+
+adb shell chmod 777 /data/local/tmp/doomed2
+adb shell chmod 777 /data/local/tmp/busybox
+adb shell chmod 777 /data/local/tmp/run_root_shell
+
+adb shell /data/local/tmp/run_root_shell

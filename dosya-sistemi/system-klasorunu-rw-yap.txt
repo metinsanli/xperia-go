@@ -1,0 +1,13 @@
+adb shell
+
+shell@android:/ $ su
+
+root@android:/ # mount | grep system
+/dev/block/mmcblk0p10 /system ext4 ro,relatime,user_xattr,acl,barrier=1,data=ordered 0 0
+
+root@android:/ # mount -o rw,remount /dev/block/mmcblk0p10 /system
+
+root@android:/ # mount | grep system                                           
+/dev/block/mmcblk0p10 /system ext4 rw,relatime,user_xattr,acl,barrier=1,data=ordered 0 0
+
+root@android:/ # mount -o ro,remount /dev/block/stl12 /system

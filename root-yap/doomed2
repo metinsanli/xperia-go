@@ -1,0 +1,33 @@
+#!/system/bin/sh
+#
+# DooMing Script: Part 2
+# Kolay root yapma araci
+#
+echo ---------------------------------------------------------------
+echo   root yapma islemleri tamamlaniyor...
+echo ---------------------------------------------------------------
+echo "--- Rootlanıyor!"
+echo "--- rootfs yeniden baglaniyor"
+/data/local/tmp/busybox mount -o remount,rw /
+echo "--- busybox kurulum islemleri basliyor"
+echo "--- /system icin yazma yetkisi veriliyor"
+/data/local/tmp/busybox mount -o remount,rw /system
+echo "--- busybox /system/xbin/ altina kopyalaniyor"
+dd if=/data/local/tmp/busybox of=/system/xbin/busybox
+echo "--- sahip bilgileri kontrol ediliyor"
+chown root.shell /system/xbin/busybox
+echo "--- yetkiler kontrol ediliyor"
+chmod 04755 /system/xbin/busybox
+echo "--- busybox kuruluyor"
+/system/xbin/busybox --install -s /system/xbin
+rm -r /data/local/tmp/busybox
+echo "--- su dosyasi tasiniyor"
+dd  if=/data/local/tmp/su of=/system/xbin/su
+echo "--- sahip bilgileri kontrol ediliyor"
+chown root.shell /system/xbin/su
+echo "--- yetkiler kontrol ediliyor"
+chmod 06755 /system/xbin/su
+echo "--- symlinks icin yetkiler kontrol ediliyor"
+ln -s /system/xbin/su /system/bin/su
+echo "--- ISLEM BITTI!"
+exit
