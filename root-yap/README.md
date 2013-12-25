@@ -1,6 +1,10 @@
-#### Android 4.1.2'de nasıl root yapılır?
+#### Android 4.1.2'de nasıl root yapılır? (Windows için)
 
-* İlk önce gereken dosyalar cihaza gönderilir.
+* Gereken dosyaları içeren [meTooR.zip](https://github.com/metinsanli/xperia-go/raw/master/root-yap/meTooR.zip) indirlip klasörüyle çıkartılır.
+
+* Komut Satırı (cmd) meTooR klasöründe açılır.
+
+* Gereken dosyalar cihaza gönderilir.
 
 **adb push doomed2 /data/local/tmp/.**
 
@@ -23,3 +27,5 @@
 * Betik çalıştırılır.
 
 **adb shell /data/local/tmp/run_root_shell**
+
+* Tamamdır. İsteğe bağlı; Google Play Marketten ücretsiz [Superuser](https://play.google.com/store/apps/details?id=com.koushikdutta.superuser) uygulaması yüklenerek uygulamalar için root yetkisi kontrollü olarak verilebilir.
