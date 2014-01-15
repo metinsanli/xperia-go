@@ -1,0 +1,19 @@
+u0_a118@android:/ $ su
+root@android:/ # df
+Filesystem               Size     Used     Free   Blksize
+/dev                   194.4M    68.0K   194.3M   4096
+/mnt/asec              194.4M     0.0K   194.4M   4096
+/mnt/obb               194.4M     0.0K   194.4M   4096
+/dev/shm               194.4M    60.0K   194.3M   4096
+/system               1007.9M   780.6M   227.3M   4096
+/data                    2.0G   448.6M     1.5G   4096
+/cache                 246.1M     4.1M   241.9M   4096
+/modemfs                 2.8M     1.1M     1.7M   1024
+/data/idd                7.5M     1.0M     6.5M   1024
+/mnt/asec/radiotime.player-1    17.0M    15.2M     1.8M   4096
+/mnt/asec/com.flyersoft.moonreaderp-1    12.0M    10.1M     1.9M   4096
+/storage/sdcard1        14.8G     7.6G     7.3G   32768
+/storage/sdcard0         4.0G   270.3M     3.7G   32768
+/mnt/secure/asec         4.0G   270.3M     3.7G   32768
+/mnt/asec/com.digipom.easyvoicerecorder.pro-2     6.0M     3.6M     2.4M   4096
+root@android:/ #
