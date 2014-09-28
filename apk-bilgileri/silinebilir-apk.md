@@ -1,235 +1,1738 @@
-<table>
-<tr><th>APK Dosya Adı</th><th>Açıklama</th></tr>
- <tr><td>ATService.apk</td><td>[silinemez] - Sistem</td></tr>
- <tr><td>ApplicationsProvider.apk</td><td>[silinemez] - Sistem</td></tr>
- <tr><td>AudioEffectService.apk</td><td>[silinemez] - Sistem</td></tr>
- <tr><td>Backup-Restore.apk</td><td>[isteğe bağlı] - Yedekleme Geri yükleyici</td></tr>
- <tr><td>Backup-wizard.apk</td><td>[isteğe bağlı] - Yedek alma uygulaması</td></tr>
- <tr><td>BackupRestoreConfirmation.apk</td><td>[isteğe bağlı] - Yedekleme Geri yükleyici</td></tr>
- <tr><td>BlackTheme.apk</td><td>[isteğe bağlı] - Siyah Tema</td></tr>
- <tr><td>BlackThemeBlueAccent.apk</td><td>[isteğe bağlı] - Siyah Tema</td></tr>
- <tr><td>BlueTheme.apk</td><td>[isteğe bağlı] - Mavi Tema</td></tr>
- <tr><td>Bluetooth.apk</td><td>[silinemez] - Bluetooth Uygulamas&#305;</td></tr>
- <tr><td>Books.apk</td><td>[SİLİNİR] - Google Kitapl&#305;k Uygulamas&#305;</td></tr>
- <tr><td>Browser.apk</td><td>[isteğe bağlı] - Default Web Browser</td></tr>
- <tr><td>CalendarProvider.apk</td><td>&nbsp;</td></tr>
- <tr><td>CameraExtensionPermission.apk</td><td>&nbsp;</td></tr>
- <tr><td>CdfInfoAccessor.apk</td><td>&nbsp;</td></tr>
- <tr><td>CertInstaller.apk</td><td>&nbsp;</td></tr>
- <tr><td>Chrome.apk</td><td>Google Chrome Browser</td></tr>
- <tr><td>ClockWidgets.apk</td><td>Saat Widget'&#305;</td></tr>
- <tr><td>ContactsImport.apk</td><td>&nbsp;</td></tr>
- <tr><td>Conversations.apk</td><td>Mesajla&#351;ma Uygulamas&#305;</td></tr>
- <tr><td>CredentialManagerService.apk</td><td>&nbsp;</td></tr>
- <tr><td>CustomizationProvider.apk</td><td>&nbsp;</td></tr>
- <tr><td>CustomizedApplicationInstaller.apk</td><td>&nbsp;</td></tr>
- <tr><td>CustomizedSettings.apk</td><td>&nbsp;</td></tr>
- <tr><td>DefaultCapabilities.apk</td><td>&nbsp;</td></tr>
- <tr><td>DefaultContainerService.apk</td><td>&nbsp;</td></tr>
- <tr><td>DownloadProvider.apk</td><td>&nbsp;</td></tr>
- <tr><td>DownloadProviderUi.apk</td><td>&nbsp;</td></tr>
- <tr><td>DrmDialogs.apk</td><td>&nbsp;</td></tr>
- <tr><td>DrmProvider.apk</td><td>&nbsp;</td></tr>
- <tr><td>EventStream.apk</td><td>&nbsp;</td></tr>
- <tr><td>EventStreamPluginFacebook.apk</td><td>&nbsp;</td></tr>
- <tr><td>EventStreamPluginTwitter.apk</td><td>&nbsp;</td></tr>
- <tr><td>Exchange2.apk</td><td>&nbsp;</td></tr>
- <tr><td>ExternalKeyboardJP.apk</td><td>&nbsp;</td></tr>
- <tr><td>FBCalendarSync.apk</td><td>&nbsp;</td></tr>
- <tr><td>FBIAppShare.apk</td><td>&nbsp;</td></tr>
- <tr><td>FBMediaDiscovery.apk</td><td>&nbsp;</td></tr>
- <tr><td>FBMusicLike.apk</td><td>&nbsp;</td></tr>
- <tr><td>FBSetupwizard.apk</td><td>&nbsp;</td></tr>
- <tr><td>GMS_Maps.apk</td><td>Google Haritalar Uygulamas&#305;</td></tr>
- <tr><td>Galaxy4.apk</td><td>Animasyonlu Duvar Ka&#287;&#305;d&#305;</td></tr>
- <tr><td>GeneralDataDisclaimer.apk</td><td>Uyar&#305; Uygulamas&#305;</td></tr>
- <tr><td>GenericApplicationInstaller.apk</td><td>APK Uygulama Yükleyicisi</td></tr>
- <tr><td>Gmail.apk</td><td>Gmail Uygulamas&#305;</td></tr>
- <tr><td>GmsCore.apk</td><td>Google Play Uygulamalar&#305; Ortak Servisi</td></tr>
- <tr><td>GoogleBackupTransport.apk</td><td>Google Yedekleme Uygulamas&#305;</td></tr>
- <tr><td>GoogleCalendarSyncAdapter.apk</td><td>Google Takvim E&#351;leme Servisi</td></tr>
- <tr><td>GoogleContactsSyncAdapter.apk</td><td>Google Ki&#351;iler E&#351;leme Servisi</td></tr>
- <tr><td>GoogleFeedback.apk</td><td>Google Geri Bildirim Servisi</td></tr>
- <tr><td>GoogleLoginService.apk</td><td>Google Oyurum Açma Servisi</td></tr>
- <tr><td>GoogleLyricsPlugin.apk</td><td>Google &#350;ark&#305; Sözü Eklentisi</td></tr>
- <tr><td>GooglePartnerSetup.apk</td><td>&nbsp;</td></tr>
- <tr><td>GoogleServicesFramework.apk</td><td>Google Uygulamalar&#305; Arayüz Servisi</td></tr>
- <tr><td>GoogleTTS.apk</td><td>Google Konu&#351;ma Uygulamas&#305;</td></tr>
- <tr><td>GpsSatellitesNotification.apk</td><td>&nbsp;</td></tr>
- <tr><td>GreenTheme.apk</td><td>Ye&#351;il Tema</td></tr>
- <tr><td>HTMLViewer.apk</td><td>Basit HTML Görüntüleyici</td></tr>
- <tr><td>HoloSpiralWallpaper.apk</td><td>&nbsp;</td></tr>
- <tr><td>Home.apk</td><td>Ana Ekran Uygulamas&#305; (Launcher)</td></tr>
- <tr><td>IddAgent.apk</td><td>&nbsp;</td></tr>
- <tr><td>InfiniteView.apk</td><td>&nbsp;</td></tr>
- <tr><td>Initial-boot-setup.apk</td><td>&nbsp;</td></tr>
- <tr><td>InputDevices.apk</td><td>&nbsp;</td></tr>
- <tr><td>KeyChain.apk</td><td>&nbsp;</td></tr>
- <tr><td>LiveWallpapers.apk</td><td>Canl&#305; Duvar Ka&#287;&#305;tlar&#305; Uygulamas&#305;</td></tr>
- <tr><td>LiveWallpapersPicker.apk</td><td>Canl&#305; Duvar Ka&#287;&#305;d&#305; Seçici</td></tr>
- <tr><td>LocalContacts.apk</td><td>&nbsp;</td></tr>
- <tr><td>LocationBasedWifi.apk</td><td>Konum Bazl&#305; Wifi Uygulamas&#305;</td></tr>
- <tr><td>Magazines.apk</td><td>Google Dergiler Uygulamas&#305;</td></tr>
- <tr><td>MediaProvider.apk</td><td>&nbsp;</td></tr>
- <tr><td>MediaUploader.apk</td><td>&nbsp;</td></tr>
- <tr><td>MemcardTransportService.apk</td><td>&nbsp;</td></tr>
- <tr><td>MusicFX.apk</td><td>&nbsp;</td></tr>
- <tr><td>MusicWidget.apk</td><td>&nbsp;</td></tr>
- <tr><td>NetworkLocation.apk</td><td>&nbsp;</td></tr>
- <tr><td>NoiseField.apk</td><td>&nbsp;</td></tr>
- <tr><td>NoteWidget.apk</td><td>&nbsp;</td></tr>
- <tr><td>OMAClientProvisioning.apk</td><td>&nbsp;</td></tr>
- <tr><td>OemCryptoReceiver.apk</td><td>&nbsp;</td></tr>
- <tr><td>OmaDownload.apk</td><td>&nbsp;</td></tr>
- <tr><td>OmaV1AgentDownloadServices.apk</td><td>&nbsp;</td></tr>
- <tr><td>OnOffTools.apk</td><td>&nbsp;</td></tr>
- <tr><td>OneTimeInitializer.apk</td><td>&nbsp;</td></tr>
- <tr><td>OrangeTheme.apk</td><td>Turuncu Tema</td></tr>
- <tr><td>PMSservice.apk</td><td>&nbsp;</td></tr>
- <tr><td>PMSserviceTriggerimei.apk</td><td>&nbsp;</td></tr>
- <tr><td>POBoxSknMono.apk</td><td>&nbsp;</td></tr>
- <tr><td>POBoxSknPink.apk</td><td>&nbsp;</td></tr>
- <tr><td>POBoxSknSelector.apk</td><td>&nbsp;</td></tr>
- <tr><td>POBoxSknWood.apk</td><td>&nbsp;</td></tr>
- <tr><td>PackageInstaller.apk</td><td>&nbsp;</td></tr>
- <tr><td>PartnerBookmarksProvider.apk</td><td>&nbsp;</td></tr>
- <tr><td>PhaseBeam.apk</td><td>&nbsp;</td></tr>
- <tr><td>Phonebook.apk</td><td>&nbsp;</td></tr>
- <tr><td>Phonesky.apk</td><td>&nbsp;</td></tr>
- <tr><td>PhotoSlideshow.apk</td><td>&nbsp;</td></tr>
- <tr><td>PhotoWidget.apk</td><td>&nbsp;</td></tr>
- <tr><td>PicoTts.apk</td><td>&nbsp;</td></tr>
- <tr><td>PinkTheme.apk</td><td>Pembe Tema</td></tr>
- <tr><td>PlusOne.apk</td><td>Google Plus Uygulamas&#305;</td></tr>
- <tr><td>PostViewer.apk</td><td>Facebook Yan Uygulamas&#305;</td></tr>
- <tr><td>PurpleTheme.apk</td><td>Mor Tema</td></tr>
- <tr><td>Radio3.apk</td><td>&nbsp;</td></tr>
- <tr><td>ReadyToRun.apk</td><td>&nbsp;</td></tr>
- <tr><td>RecentCallsWidget.apk</td><td>&nbsp;</td></tr>
- <tr><td>RemoteControlService.apk</td><td>&nbsp;</td></tr>
- <tr><td>SEMCFacebookProxy.apk</td><td>&nbsp;</td></tr>
- <tr><td>SEMCSetupWizard.apk</td><td>&nbsp;</td></tr>
- <tr><td>SOMCTwitterAccount.apk</td><td>&nbsp;</td></tr>
- <tr><td>SOMCTwitterSetupWizard.apk</td><td>&nbsp;</td></tr>
- <tr><td>STErilOemService.apk</td><td>&nbsp;</td></tr>
- <tr><td>SecureClockJava.apk</td><td>&nbsp;</td></tr>
- <tr><td>SemcAlbum.apk</td><td>&nbsp;</td></tr>
- <tr><td>SemcAutoPowerOff.apk</td><td>&nbsp;</td></tr>
- <tr><td>SemcCalculator.apk</td><td>&nbsp;</td></tr>
- <tr><td>SemcCalendar.apk</td><td>&nbsp;</td></tr>
- <tr><td>SemcCamera3D.apk</td><td>&nbsp;</td></tr>
- <tr><td>SemcCameraUI.apk</td><td>&nbsp;</td></tr>
- <tr><td>SemcClock.apk</td><td>&nbsp;</td></tr>
- <tr><td>SemcCnapProvider.apk</td><td>&nbsp;</td></tr>
- <tr><td>SemcContactsProvider.apk</td><td>&nbsp;</td></tr>
- <tr><td>SemcCrashMonitor.apk</td><td>Uygulama Çökme Raporu Uygulamas&#305;</td></tr>
- <tr><td>SemcDlna.apk</td><td>&nbsp;</td></tr>
- <tr><td>SemcDlnaHandover.apk</td><td>&nbsp;</td></tr>
- <tr><td>SemcEmail.apk</td><td>Email Uygulamas&#305;</td></tr>
- <tr><td>SemcIllumination.apk</td><td>&nbsp;</td></tr>
- <tr><td>SemcMetadataCleanup.apk</td><td>&nbsp;</td></tr>
- <tr><td>SemcMusic.apk</td><td>&nbsp;</td></tr>
- <tr><td>SemcMusicVisualizer.apk</td><td>&nbsp;</td></tr>
- <tr><td>SemcNotes.apk</td><td>Sony Not Kay&#305;t Uygulamas&#305;</td></tr>
- <tr><td>SemcPhone.apk</td><td>&nbsp;</td></tr>
- <tr><td>SemcPhotoEditor.apk</td><td>&nbsp;</td></tr>
- <tr><td>SemcPowerSaveModule.apk</td><td>&nbsp;</td></tr>
- <tr><td>SemcSettings.apk</td><td>&nbsp;</td></tr>
- <tr><td>SemcSimDetection.apk</td><td>&nbsp;</td></tr>
- <tr><td>SemcStorageChecker.apk</td><td>&nbsp;</td></tr>
- <tr><td>SemcTelephonyProvider.apk</td><td>&nbsp;</td></tr>
- <tr><td>SemcTvLauncher.apk</td><td>Sony Smart TV Ba&#287;lant&#305; Uygulamas&#305;</td></tr>
- <tr><td>SemcUnplugChargerReminder.apk</td><td>&#350;arj Cihaz&#305; Uyar&#305;lar&#305; Uygulamas&#305;</td></tr>
- <tr><td>SemcVideo.apk</td><td>&nbsp;</td></tr>
- <tr><td>ServiceMenu.apk</td><td>Servis Menüsü Uygulamas&#305;</td></tr>
- <tr><td>Settings.apk</td><td>Ayarlar Uygulamas&#305;</td></tr>
- <tr><td>SettingsProvider.apk</td><td>&nbsp;</td></tr>
- <tr><td>ShareApplication.apk</td><td>Xperia Share Uygulamas&#305;</td></tr>
- <tr><td>SharedStorageBackup.apk</td><td>&nbsp;</td></tr>
- <tr><td>ShutDownAnimation.apk</td><td>&nbsp;</td></tr>
- <tr><td>SimContacts.apk</td><td>&nbsp;</td></tr>
- <tr><td>Skin1.apk</td><td>&nbsp;</td></tr>
- <tr><td>SmartSearch.apk</td><td>Ak&#305;ll&#305; Arama Uygulamas&#305;</td></tr>
- <tr><td>SmartcardService.apk</td><td>&nbsp;</td></tr>
- <tr><td>SocialEngineCore.apk</td><td>Sosyal Uygulamar</td></tr>
- <tr><td>SocialEngineFacebookPlugin.apk</td><td>Sosyal Uygulamar</td></tr>
- <tr><td>SocialEngineFacebookShareFrwkPlugin.apk</td><td>Sosyal Uygulamar</td></tr>
- <tr><td>SocialEnginePicasaPlugin.apk</td><td>Sosyal Uygulamar</td></tr>
- <tr><td>SocialEngineTwitterShareFrwkPlugin.apk</td><td>Sosyal Uygulamar</td></tr>
- <tr><td>SocialPane-Apps.apk</td><td>Sosyal Uygulamar</td></tr>
- <tr><td>SocialPane-FeedWidget.apk</td><td>Sosyal Uygulamar</td></tr>
- <tr><td>SocialPane-FriendsWidget.apk</td><td>Sosyal Uygulamar</td></tr>
- <tr><td>SocialPane-StatusWidget.apk</td><td>Sosyal Uygulamar</td></tr>
- <tr><td>SomcCameraAutoUpload.apk</td><td>&nbsp;</td></tr>
- <tr><td>SomcConnectivityCenter.apk</td><td>Xperia Link Yan Uygulamas&#305;</td></tr>
- <tr><td>SomcMusicSlideshow.apk</td><td>&nbsp;</td></tr>
- <tr><td>SomcPhotoAnalyzer.apk</td><td>&nbsp;</td></tr>
- <tr><td>SomcXperiaLink.apk</td><td>&nbsp;</td></tr>
- <tr><td>Sound-Picker.apk</td><td>&nbsp;</td></tr>
- <tr><td>SoundEnhancement.apk</td><td>&nbsp;</td></tr>
- <tr><td>SoundLevelAlert.apk</td><td>&nbsp;</td></tr>
- <tr><td>SoundRecorder.apk</td><td>&nbsp;</td></tr>
- <tr><td>StartupFlagV2.apk</td><td>&nbsp;</td></tr>
- <tr><td>Stk.apk</td><td>&nbsp;</td></tr>
- <tr><td>Street.apk</td><td>Google Sokak Görünümü Uygulamas&#305;</td></tr>
- <tr><td>SuperStamina.apk</td><td>&nbsp;</td></tr>
- <tr><td>SwiqiMasterReset.apk</td><td>&nbsp;</td></tr>
- <tr><td>SystemUI.apk</td><td>&nbsp;</td></tr>
- <tr><td>Talk.apk</td><td>Google Talk (Hangouts) Uygulamas&#305;</td></tr>
- <tr><td>TaskSwitcher.apk</td><td>&nbsp;</td></tr>
- <tr><td>TetherEntitlementCheck.apk</td><td>&nbsp;</td></tr>
- <tr><td>TimescapeSpline.apk</td><td>&nbsp;</td></tr>
- <tr><td>TopContactsWidget.apk</td><td>S&#305;k Görü&#351;ülen Ki&#351;iler Widget'&#305;</td></tr>
- <tr><td>TwitterPostViewer.apk</td><td>Twitter Widget'&#305;</td></tr>
- <tr><td>UnsupportedHeadsetNotifier.apk</td><td>Desteklenmeyen Kulakl&#305;k Uyar&#305; Uygulamas&#305;</td></tr>
- <tr><td>UpdateCenter.apk</td><td>Sony Sistem Güncelleme Uygulamas&#305;</td></tr>
- <tr><td>UsbTransportService.apk</td><td>&nbsp;</td></tr>
- <tr><td>UserDictionaryProvider.apk</td><td>&nbsp;</td></tr>
- <tr><td>UseragentProvider.apk</td><td>&nbsp;</td></tr>
- <tr><td>UxpNxtLockScreen.apk</td><td>&nbsp;</td></tr>
- <tr><td>Velvet.apk</td><td>Google Search Uygulamas&#305;</td></tr>
- <tr><td>VerifyCertificatesDummyAppApplication.apk</td><td>&nbsp;</td></tr>
- <tr><td>VerifyCertificatesDummyAppMedia.apk</td><td>&nbsp;</td></tr>
- <tr><td>VerifyCertificatesDummyAppPlatform.apk</td><td>&nbsp;</td></tr>
- <tr><td>VerifyCertificatesDummyAppShared.apk</td><td>&nbsp;</td></tr>
- <tr><td>Videos.apk</td><td>Google Play Filmler Uygulamas&#305;</td></tr>
- <tr><td>VoiceDialer.apk</td><td>Sesli Çevirici Uygulamas&#305;</td></tr>
- <tr><td>VoiceSearchStub.apk</td><td>&nbsp;</td></tr>
- <tr><td>VoipCallLogProvider.apk</td><td>&nbsp;</td></tr>
- <tr><td>VpnDialogs.apk</td><td>&nbsp;</td></tr>
- <tr><td>WAPPushManager.apk</td><td>&nbsp;</td></tr>
- <tr><td>WallpaperPicker.apk</td><td>&nbsp;</td></tr>
- <tr><td>WapPush.apk</td><td>&nbsp;</td></tr>
- <tr><td>WeatherWidget2.apk</td><td>&nbsp;</td></tr>
- <tr><td>WiFiApState.apk</td><td>&nbsp;</td></tr>
- <tr><td>WidgetPicker.apk</td><td>&nbsp;</td></tr>
- <tr><td>WikipediaPlugin.apk</td><td>Wikipedia Eklentisi</td></tr>
- <tr><td>YouTube.apk</td><td>&nbsp;</td></tr>
- <tr><td>YouTubeKaraokePlugin.apk</td><td>&nbsp;</td></tr>
- <tr><td>YouTubePlugin.apk</td><td>&nbsp;</td></tr>
- <tr><td>bootinfo.apk</td><td>&nbsp;</td></tr>
- <tr><td>com.fizy.android.apk</td><td>&nbsp;</td></tr>
- <tr><td>com.sonyericsson.fizysearch.apk</td><td>&nbsp;</td></tr>
- <tr><td>compass.apk</td><td>&nbsp;</td></tr>
- <tr><td>device-monitor.apk</td><td>&nbsp;</td></tr>
- <tr><td>enhancedusbux.apk</td><td>&nbsp;</td></tr>
- <tr><td>facebook.apk</td><td>&nbsp;</td></tr>
- <tr><td>helpapp.apk</td><td>&nbsp;</td></tr>
- <tr><td>livewaremanager.apk</td><td>&nbsp;</td></tr>
- <tr><td>micoach.apk</td><td>&nbsp;</td></tr>
- <tr><td>retaildemo.apk</td><td>&nbsp;</td></tr>
- <tr><td>semcservice.apk</td><td>&nbsp;</td></tr>
- <tr><td>skin-picker.apk</td><td>&nbsp;</td></tr>
- <tr><td>skin-upholsterer.apk</td><td>&nbsp;</td></tr>
- <tr><td>storefront.apk</td><td>Sony Select Uygulamas&#305;</td></tr>
- <tr><td>talkback.apk</td><td>&nbsp;</td></tr>
- <tr><td>textinput-tng.apk</td><td>&nbsp;</td></tr>
- <tr><td>timescaperssplugin.apk</td><td>&nbsp;</td></tr>
- <tr><td>torch.apk</td><td>Fener Uygulamas&#305;</td></tr>
- <tr><td>usb-mtp-backup-transport.apk</td><td>&nbsp;</td></tr>
- <tr><td>usb-mtp-marlin-wrapper.apk</td><td>&nbsp;</td></tr>
- <tr><td>usb-mtp-update-wrapper.apk</td><td>&nbsp;</td></tr>
- <tr><td>usb-mtp-vendor-extension-service.apk</td><td>&nbsp;</td></tr>
- <tr><td>usbotg.apk</td><td>USB Host Uygulamas&#305;</td></tr>
- <tr><td>walkmate.apk</td><td></td></tr>
-</table>
+<TABLE CELLSPACING="0" COLS="5" BORDER="0">
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/SEMCSetupWizard.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.sonyericsson.setupwizard</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Kurulum Sihirbazı</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/micoach.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.adidas.micoach</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Adidas MiCoach</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/BackupRestoreConfirmation.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.android.backupconfirm</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Yedekleme Uygulaması</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/Chrome.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.android.chrome</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Google Chrome</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/SemcEmail.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.android.email</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Email Uygulaması</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/Exchange2.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.android.exchange</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Email Uygulaması Eklentisi</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/Galaxy4.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.android.galaxy4</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Hareketli Duvar Kağıdı</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/PhaseBeam.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.android.phasebeam</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Hareketli Duvar Kağıdı</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/vendor/overlay/com.android.providers.settings-res.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.android.providers.settings.res.overlay</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Browser Kısayol Widget</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/RemoteControlService.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.android.remotecontrolservice</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00"><BR></FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/VoiceDialer.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.android.voicedialer</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Sesli Çevirici</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/VpnDialogs.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.android.vpndialogs</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00"><BR></FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/LiveWallpapers.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.android.wallpaper</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Animasyonlu Duvar Kağıdı</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/HoloSpiralWallpaper.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.android.wallpaper.holospiral</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Animasyonlu Duvar Kağıdı</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/LiveWallpapersPicker.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.android.wallpaper.livepicker</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Animasyonlu Duvar Kağıdı Seçici</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/compass.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.apksoftware.compass</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Yön Bulucu</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/facebook.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.facebook.katana</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Facebook Uygulaması</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/GenieWidget.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.google.android.apps.genie.geniewidget</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Haberler ve Hava Durumu Widget</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/PlusOne.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.google.android.apps.plus</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Google Plus Uygulaması</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/MediaUploader.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.google.android.apps.uploader</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Picasa Uploader</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/GoogleFeedback.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.google.android.feedback</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Market Geri Bildirim Aracı</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/Velvet.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.google.android.googlequicksearchbox</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Google Arama</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/talkback.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.google.android.marvin.talkback</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Sesli Ekran Okuyucu Eklentisi</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/Street.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.google.android.street</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Sokak Görünümü Uygulaması</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/Talk.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.google.android.talk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Google Talk Uygulaması</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/GoogleTTS.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.google.android.tts</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Metin-Konuşma Motoru</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/VoiceSearchStub.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.google.android.voicesearch</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Sesli Arama Eklentisi</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/data/app/com.mobisystems.office-1.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.mobisystems.office</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Ofis Uygulaması</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/NoteWidget.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.sonyericsson.advancedwidget.notewidget</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Widget</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/PhotoWidget.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.sonyericsson.advancedwidget.photo</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Widget</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/RecentCallsWidget.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.sonyericsson.advancedwidget.recentcalls</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Widget</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/SocialPane-StatusWidget.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.sonyericsson.advancedwidget.updatestatus</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Widget</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/JapaneseIME.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.sonyericsson.android.pobox</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Japonca Klavye Eklentisi</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/POBoxSknMono.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.sonyericsson.android.pobox.skn.mono</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Klavye Teması</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/POBoxSknPink.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.sonyericsson.android.pobox.skn.pink</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Klavye Teması</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/POBoxSknSelector.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.sonyericsson.android.pobox.skn.selector</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Klavye Tema Seçici</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/POBoxSknWood.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.sonyericsson.android.pobox.skn.wood</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Klavye Teması</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/SmartSearch.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.sonyericsson.android.smartsearch</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Smart Search Plugin</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/data/app/com.sonyericsson.androidapp.everchwallpaper-1.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.sonyericsson.androidapp.everchwallpaper</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Büyülü Orman Duvar Kağıdı</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/FBCalendarSync.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.sonyericsson.androidapp.fbcalendarsync</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Facebook Eklentisi</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/FBMusicLike.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.sonyericsson.androidapp.fbmusiclike</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Facebook Eklentisi</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/FBSetupwizard.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.sonyericsson.androidapp.fbsetupwizard</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Facebook Eklentisi</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/retaildemo.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.sonyericsson.androidapp.retaildemo</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Demo Telefon Tanıtım Uygulaması</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/storefront.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.sonyericsson.androidapp.storefront</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Sony Select Uygulaması</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/timescaperssplugin.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.sonyericsson.androidapp.timescapefeedsplugin</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Time Scape Veri Kaynağı</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/data/app/com.sonyericsson.androidapp.wallpaper_earth-1.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.sonyericsson.androidapp.wallpaper_earth</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Yeryüzü Duvar Kağıdı</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/FBIAppShare.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.sonyericsson.appshare</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Facebook Eklentisi</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/Backup-Restore.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.sonyericsson.backuprestore</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Yedekleme Uygulaması</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/BlackTheme.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.sonyericsson.blacktheme</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Tema</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/BlackThemeBlueAccent.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.sonyericsson.blackthemeblueaccent</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Tema</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/BlueTheme.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.sonyericsson.bluetheme</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Tema</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/vendor/overlay/com.sonyericsson.capabilities-res.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.sonyericsson.capabilities.res.overlay</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Widget</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/vendor/overlay/com.sonyericsson.conversations-res.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.sonyericsson.conversations.res.overlay</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Widget</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/SemcCrashMonitor.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.sonyericsson.crashmonitor</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Hata Geri Bildirim Eklentisi</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/CustomizedSettings.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.sonyericsson.customizedsettings</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Özelleştirilmiş Ayarlar Eklentisi</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/vendor/overlay/com.sonyericsson.customizedsettings-res.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.sonyericsson.customizedsettings.res.overlay</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Özelleştirilmiş Ayarlar Eklentisi</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/EventStream.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.sonyericsson.eventstream</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Time Scape Eklentisi</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/EventStreamPluginFacebook.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.sonyericsson.eventstream.facebookplugin</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Time Scape Eklentisi</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/EventStreamPluginTwitter.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.sonyericsson.eventstream.twitterplugin</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Time Scape Eklentisi</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/TwitterPostViewer.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.sonyericsson.eventstream.twitterpostviewer</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Time Scape Eklentisi</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/PostViewer.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.sonyericsson.facebook.postview</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Facebook Eklentisi</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/SEMCFacebookProxy.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.sonyericsson.facebook.proxylogin</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Facebook Eklentisi</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/FBMediaDiscovery.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.sonyericsson.fbmediadiscovery</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Facebook Eklentisi</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/IddAgent.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.sonyericsson.idd.agent</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Anonymous Usage Stats</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/InfiniteView.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.sonyericsson.infiniteview</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Sonsuz Görünüm Eklentisi</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/GoogleLyricsPlugin.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.sonyericsson.music.googlelyricsplugin</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Walkman Eklentisi</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/WikipediaPlugin.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.sonyericsson.music.wikipediaplugin</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Walkman Eklentisi</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/YouTubeKaraokePlugin.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.sonyericsson.music.youtubekaraokeplugin</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Walkman Eklentisi</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/YouTubePlugin.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.sonyericsson.music.youtubeplugin</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Walkman Eklentisi</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/SemcNotes.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.sonyericsson.notes</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Notlar Uygulaması</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/OrangeTheme.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.sonyericsson.orangetheme</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Tema</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/PinkTheme.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.sonyericsson.pinktheme</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Tema</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/PurpleTheme.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.sonyericsson.purpletheme</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Tema</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/vendor/overlay/com.sonyericsson.r2r.client-res.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.sonyericsson.r2r.client.res.overlay</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00"><BR></FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/SocialEngineCore.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.sonyericsson.socialengine</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Xperia Social Engine</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/SocialEngineFacebookPlugin.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.sonyericsson.socialengine.plugins.facebook</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Xperia Social Engine Eklentisi</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/SocialEnginePicasaPlugin.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.sonyericsson.socialengine.plugins.picasa</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Xperia Social Engine Eklentisi</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/SocialPane-Apps.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.sonyericsson.socialpane.friends</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Xperia Social Engine Eklentisi</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/SoundLevelAlert.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.sonyericsson.soundlevelalert</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Ses Yüksek Uyarısı</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/textinput-chn.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.sonyericsson.textinput.chinese</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Çince Klavye</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/vendor/overlay/textinput-tng-Overlay-295.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.sonyericsson.textinput.uxp.platform.res.overlay</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Çince Klavye</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/TimescapeSpline.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.sonyericsson.timescape.ui</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Time Scape Uygulaması</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/data/app/com.sonyericsson.trackid-1.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.sonyericsson.trackid</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Track ID Müzik Tanıma Uygulaması</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/vendor/overlay/com.sonyericsson.trackid-res.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.sonyericsson.trackid.res.overlay</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Track ID Müzik Tanıma Uygulama Eklentisi</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/SemcUnplugChargerReminder.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.sonyericsson.unplugchargerreminder</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Şarj Kapağı Uyarı Eklentisi</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/UnsupportedHeadsetNotifier.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.sonyericsson.unsupportedheadsetnotifier</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Desteklenmeyen Kulaklık Türü Uyarı Eklentisi</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/UpdateCenter.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.sonyericsson.updatecenter</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Update Center Uygulamaı</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/Backup-wizard.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.sonyericsson.vendor.backuprestore</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Yedekle ve geri yükle Uygulaması</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/vendor/overlay/com.sonyericsson.wappush-res.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.sonyericsson.wappush.res.overlay</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00"><BR></FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/TopContactsWidget.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.sonymobile.advancedwidget.topcontacts</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Sık görüşülen Kayıtlar Widgetı</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/ExternalKeyboardJP.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.sonymobile.android.externalkeyboardjp</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Japonca Klavye</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/walkmate.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.sonymobile.androidapp.walkmate</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Yürüyüş Arkadaşı Uygulaması</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/helpapp.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.sonymobile.helpapp7</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Destek Uygulaması</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/Skin1.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.sonymobile.runtimeskinning.skin1</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Quartz Renk Teması</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/ShareApplication.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.sonymobile.shareapplication</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Xperia Share Uygulaması</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/SocialEngineFacebookShareFrwkPlugin.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.sonymobile.socialengine.plugins.facebook_sharefrwk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Facebook Eklentisi</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/SocialEngineTwitterShareFrwkPlugin.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.sonymobile.socialengine.plugins.twitter_sharefrwk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Twitter Eklentisi</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/SOMCTwitterAccount.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.sonymobile.twitter.account</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Twitter Eklentisi</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/SOMCTwitterSetupWizard.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.sonymobile.twitter.setupwizard</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Twitter Eklentisi</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/SomcXperiaLink.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.sonymobile.xperialink</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">XperiaLink Uygulaması</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/PicoTts.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.svox.pico</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">TalktoSpeech Eklentisi</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/data/app/com.trust5.odp-1.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.trust5.odp</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">McAffe Antivirus Uygulaması</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/data/app/com.wsandroid.suite-1.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.wsandroid.suite</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">McAffe Antivirus Uygulaması</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/data/app/de.arvatomobile.sonyericsson.playnow.android-1.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">de.arvatomobile.sonyericsson.playnow.android</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">PlayNOW Uygulaması</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/data/app/org.microemu.android.se.appello.lp.WisepilotSE-1.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">org.microemu.android.se.appello.lp.WisepilotSE</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">WisePilot Uygulaması</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/Stk.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.android.stk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Sim Araç Seti</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/Browser.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.android.browser</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Dahili Internet Tarayıcı Uygulaması</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/vendor/overlay/com.android.browser-res.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.android.browser.res.overlay</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Tarayıcı Widget</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/SocialPane-FeedWidget.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.sonyericsson.advancedwidget.feedwidget</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Time Scape Widget Veri Kaynağı</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/SocialPane-FriendsWidget.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.sonyericsson.advancedwidget.friends</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Time Scape Widget Arkadaşlar</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/SemcTvLauncher.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.sonyericsson.tvlauncher</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Sony Smart TV Uygulama Başlatıcı</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/TaskSwitcher.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.sonymobile.taskswitcher</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00"><BR></FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">/system/app/GreenTheme.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">com.sonyericsson.greentheme</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Tema</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#00FF00">Silinebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/framework/framework-res.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">android</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Sistem Uygulaması</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/Bluetooth.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.android.bluetooth</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000"><BR></FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/CertInstaller.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.android.certinstaller</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000"><BR></FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/DefaultContainerService.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.android.defcontainer</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Paket Erişim Yardımcısı</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/HTMLViewer.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.android.htmlviewer</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Basit HTML Görüntüleyici</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/InputDevices.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.android.inputdevices</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000"><BR></FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/KeyChain.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.android.keychain</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000"><BR></FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/MusicFX.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.android.musicfx</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Ses Geliştirmeleri Eklentisi (Equalizer for Walkman)</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/NoiseField.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.android.noisefield</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Ses Gürültü Azaltma Eklentisi</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/PackageInstaller.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.android.packageinstaller</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">APK Yükleyici</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/SemcPhone.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.android.phone</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Telefon Arama/Yanıtlama</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/SemcContactsProvider.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.android.providers.contacts</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Rehber</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/DownloadProvider.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.android.providers.downloads</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">İndirme Eklentisi</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/DownloadProviderUi.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.android.providers.downloads.ui</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">İndirme Eklentisi</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/DrmProvider.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.android.providers.drm</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">DRM içerikli uygulama kontrolcüsü</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/MediaProvider.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.android.providers.media</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Albüm için dosya tarayıcı</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/SettingsProvider.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.android.providers.settings</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Ayarlar Uygulaması</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/SemcTelephonyProvider.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.android.providers.telephony</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000"><BR></FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/UserDictionaryProvider.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.android.providers.userdictionary</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Kullanıcı Sözlüğü Eklentisi</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/Settings.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.android.settings</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000"><BR></FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/SharedStorageBackup.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.android.sharedstoragebackup</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000"><BR></FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/WAPPushManager.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.android.smspush</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000"><BR></FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/SoundRecorder.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.android.soundrecorder</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000"><BR></FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/SystemUI.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.android.systemui</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000"><BR></FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/MusicWidget.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.sonyericsson.advancedwidget.music</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000"><BR></FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/OnOffTools.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.sonyericsson.advancedwidget.onoff</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000"><BR></FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/SemcAlbum.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.sonyericsson.album</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000"><BR></FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="13" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/bootinfo.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.sonyericsson.android.bootinfo</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">DownloadAgent</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/SemcCameraUI.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.sonyericsson.android.camera</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000"><BR></FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/SemcCamera3D.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.sonyericsson.android.camera3d</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000"><BR></FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/CdfInfoAccessor.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.sonyericsson.android.cdfinfoaccessor</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Cdf Info Accessor Service</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/ContactsImport.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.sonyericsson.android.contactsimport</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000"><BR></FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/OmaV1AgentDownloadServices.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.sonyericsson.android.drm.services</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000"><BR></FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/LocationBasedWifi.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.sonyericsson.android.locationbasedwifi</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000"><BR></FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/OMAClientProvisioning.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.sonyericsson.android.omacp</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000"><BR></FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/semcservice.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.sonyericsson.android.semcrilextension</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000"><BR></FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/ServiceMenu.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.sonyericsson.android.servicemenu</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Servis Menü = *#*#7378423#*#*</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/Phonebook.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.sonyericsson.android.socialphonebook</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Kişiler</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/WiFiApState.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.sonyericsson.android.wifi</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000"><BR></FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/AudioEffectService.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.sonyericsson.audioeffectservice</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000"><BR></FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/SemcAutoPowerOff.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.sonyericsson.autopoweroffservice</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000"><BR></FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/CameraExtensionPermission.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.sonyericsson.cameraextension.permission</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000"><BR></FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/DefaultCapabilities.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.sonyericsson.capabilities</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000"><BR></FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/Conversations.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.sonyericsson.conversations</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Mesajlaşma Uygulaması</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/CredentialManagerService.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.sonyericsson.credentialmanagerservice</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000"><BR></FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/CustomizedApplicationInstaller.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.sonyericsson.customizedappinstaller</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000"><BR></FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/SemcDlna.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.sonyericsson.dlna</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">DLNA Eklentisi</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/SemcDlnaHandover.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.sonyericsson.dlnahandover</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">DLNA Eklentisi</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/DrmDialogs.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.sonyericsson.drmdialogs</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">DRM Eklentisi</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/GenericApplicationInstaller.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.sonyericsson.genericinstaller.android</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">APK Yükleyici</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/Home.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.sonyericsson.home</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000"><BR></FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/SemcIllumination.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.sonyericsson.illumination.service</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">LED Bildirim Eklentisi</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/LocalContacts.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.sonyericsson.localcontacts</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Telefon Rehberi (Dahili Hafızada kaydolanlar)</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/UxpNxtLockScreen.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.sonyericsson.lockscreen.uxpnxt</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Kilit Ekranı</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/usb-mtp-vendor-extension-service.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.sonyericsson.mtp</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">USB Bağlantısı</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/usb-mtp-backup-transport.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.sonyericsson.mtp.extension.backuprestore</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">USB Bağlantısı</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/usb-mtp-marlin-wrapper.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.sonyericsson.mtp.extension.marlin</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">USB Bağlantısı</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/usb-mtp-update-wrapper.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.sonyericsson.mtp.extension.update</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">USB Bağlantısı</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/OemCryptoReceiver.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.sonyericsson.oemCryptoReceiver</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000"><BR></FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/OmaDownload.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.sonyericsson.omadl</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Oma Download Client</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/SemcClock.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.sonyericsson.organizer</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Saat</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/SemcPhotoEditor.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.sonyericsson.photoeditor</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000"><BR></FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/CustomizationProvider.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.sonyericsson.provider.customization</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000"><BR></FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/VoipCallLogProvider.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.sonyericsson.provider.voipcalllog</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000"><BR></FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/SemcCnapProvider.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.sonyericsson.providers.cnap</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000"><BR></FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/PMSservice.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.sonyericsson.providers.protectedmedia</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000"><BR></FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/SemcPowerSaveModule.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.sonyericsson.psm.sysmonservice</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000"><BR></FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/SecureClockJava.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.sonyericsson.secureclockservice</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000"><BR></FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/SemcSettings.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.sonyericsson.settings</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000"><BR></FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/ShutDownAnimation.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.sonyericsson.shutdownanim</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000"><BR></FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/SimContacts.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.sonyericsson.simcontacts</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000"><BR></FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/SemcSimDetection.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.sonyericsson.simdetection</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000"><BR></FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/SmartcardService.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.sonyericsson.smartcard</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000"><BR></FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/SoundEnhancement.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.sonyericsson.soundenhancement</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Ses Geliştirmeleri</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/Sound-Picker.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.sonyericsson.suquashi.soundpicker</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Ses Seçici</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/SwiqiMasterReset.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.sonyericsson.swiqimasterreset</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000"><BR></FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/textinput-tng.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.sonyericsson.textinput.uxp</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Klavye Uygulaması</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/usbotg.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.sonyericsson.usbotg</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">USB Bellek Bağlayıcı</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/enhancedusbux.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.sonyericsson.usbux</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000"><BR></FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/VerifyCertificatesDummyAppApplication.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.sonyericsson.verifycertificatesdummyapp.application</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000"><BR></FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/VerifyCertificatesDummyAppMedia.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.sonyericsson.verifycertificatesdummyapp.media</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000"><BR></FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/VerifyCertificatesDummyAppPlatform.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.sonyericsson.verifycertificatesdummyapp.platform</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000"><BR></FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/VerifyCertificatesDummyAppShared.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.sonyericsson.verifycertificatesdummyapp.shared</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000"><BR></FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/SemcVideo.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.sonyericsson.video</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000"><BR></FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/WallpaperPicker.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.sonyericsson.wallpaperpicker</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000"><BR></FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/WapPush.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.sonyericsson.wappush</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000"><BR></FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/WidgetPicker.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.sonyericsson.widgetpicker</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Widget Seçici</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/SomcCameraAutoUpload.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.sonymobile.cameraautoupload</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000"><BR></FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/GeneralDataDisclaimer.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.sonymobile.datadisclaimer</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">İnternet Kullanım Sayacı</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/GpsSatellitesNotification.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.sonymobile.gpssatellitesnotification</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000"><BR></FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/SomcMusicSlideshow.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.sonymobile.musicslideshow</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000"><BR></FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/SomcPhotoAnalyzer.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.sonymobile.photoanalyzer</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000"><BR></FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/PMSserviceTriggerimei.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.sonymobile.protectedmedia</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000"><BR></FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/skin-picker.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.sonymobile.runtimeskinning.picker</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Renk teması seçici</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/PhotoSlideshow.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.sonymobile.slideshow</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000"><BR></FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/SemcStorageChecker.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.sonymobile.storagechecker</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000"><BR></FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/SuperStamina.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.sonymobile.superstamina</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000"><BR></FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/ATService.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.stericsson.atservice</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000"><BR></FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">/system/app/STErilOemService.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">com.stericsson.ril.oem.service</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000"><BR></FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#FF0000">Önemli</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">/system/app/UseragentProvider.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">com.sonyericsson.provider.useragent</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8"><BR></FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">Kararsız</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">/system/app/ReadyToRun.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">com.sonyericsson.r2r.client</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8"><BR></FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">Kararsız</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">/system/app/ApplicationsProvider.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">com.android.providers.applications</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">Uygulama Bilgileri Eklentisi</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">Kararsız</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">/system/app/PartnerBookmarksProvider.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">com.android.providers.partnerbookmarks</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">Broser Kısayol</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">Kararsız</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">/vendor/overlay/com.android.providers.partnerbookmarks-res.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">com.android.providers.partnerbookmarks.res.overlay</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">Browser Kısayol Widget</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">Kararsız</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">/system/app/GoogleBackupTransport.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">com.google.android.backup</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">Google Backup Transport</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">Kararsız</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">/system/app/OneTimeInitializer.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">com.google.android.onetimeinitializer</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">Google OneTime Init</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">Kararsız</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">/system/app/MemcardTransportService.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">com.sonyericsson.backupservice.memorycardtransport</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8"><BR></FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">Kararsız</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">/system/app/UsbTransportService.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">com.sonyericsson.backupservice.usbstoragetransport</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8"><BR></FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">Kararsız</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">/system/app/device-monitor.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">com.sonyericsson.devicemonitor</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8"><BR></FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">Kararsız</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">/system/app/Initial-boot-setup.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">com.sonyericsson.initialbootsetup</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">DISABLE ???</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">Kararsız</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">/system/app/SemcMetadataCleanup.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">com.sonyericsson.metadatacleanup</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">Müzik Bilgilerini İndir Eklentisi</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">Kararsız</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">/system/app/StartupFlagV2.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">com.sonyericsson.startupflagservice</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8"><BR></FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">Kararsız</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">/system/app/TetherEntitlementCheck.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">com.sonyericsson.tetherentitlementcheck</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8"><BR></FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">Kararsız</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">/system/app/NetworkLocation.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">com.google.android.location</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">Ağ Konumu Eklentisi</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">Kararsız</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">/system/app/GMS_Maps.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">com.google.android.apps.maps</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">Google Maps Uygulaması</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">Gerekebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">/system/app/YouTube.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">com.google.android.youtube</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">Google Youtube Uygulaması</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">Gerekebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">/system/app/livewaremanager.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">com.sonyericsson.extras.liveware</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8"><BR></FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">Gerekebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">/system/app/SomcConnectivityCenter.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">com.sonymobile.connectivitycenter</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">LiveWare Uygulama eklentisi</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">Gerekebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">/system/app/Phonesky.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">com.android.vending</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">Google Play Store Uygulaması</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">Gerekebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">/system/app/SemcCalculator.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">com.android.calculator2</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">Hesap Makinası</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">Gerekebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">/system/app/SemcCalendar.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">com.android.calendar</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">Takvim Uygulaması</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">Gerekebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">/system/app/CalendarProvider.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">com.android.providers.calendar</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">Takvim Uygulaması</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">Gerekebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">/system/app/Gmail.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">com.google.android.gm</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">Google Gmail Uygulaması</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">Gerekebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">/data/app/com.google.android.gms-1.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">com.google.android.gms</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">Google Play Arkplan Hizmetleri</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">Gerekebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">/system/app/GoogleServicesFramework.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">com.google.android.gsf</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">Google Hizmetleri Çerçevesi</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">Gerekebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">/system/app/GoogleLoginService.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">com.google.android.gsf.login</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">Google Hesap Yöneticisi</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">Gerekebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">/system/app/GooglePartnerSetup.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">com.google.android.partnersetup</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">Google Ortağı Kurulumu</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">Gerekebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">/system/app/GoogleCalendarSyncAdapter.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">com.google.android.syncadapters.calendar</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">Google Takvim Senkronizayonu Eklentisi</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">Gerekebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">/system/app/GoogleContactsSyncAdapter.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">com.google.android.syncadapters.contacts</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">Google Rehber Senkronizayonu Eklentisi</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">Gerekebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">/system/app/ClockWidgets.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">com.sonyericsson.advancedwidget.clock</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">Saat Widgetı</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">Gerekebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">/system/app/WeatherWidget2.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">com.sonyericsson.advancedwidget.weather2</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">Time Scape Widget Hava Durumu</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">Gerekebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">/system/app/torch.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">com.sonyericsson.androidapp.torchapp</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">El Feneri</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">Gerekebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">/system/app/SemcMusic.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">com.sonyericsson.music</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">WALKMAN Uygulaması</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">Gerekebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">/system/app/SemcMusicVisualizer.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">com.sonyericsson.musicvisualizer</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">Görselleştirici eklentisi</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">Gerekebilir</FONT></TD>
+	</TR>
+	<TR>
+		<TD HEIGHT="14" ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">package</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">/system/app/skin-upholsterer.apk</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">com.sonyericsson.thememanager</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">Tema Seçici</FONT></TD>
+		<TD ALIGN="LEFT" VALIGN=BOTTOM><FONT COLOR="#4A86E8">Gerekebilir</FONT></TD>
+	</TR>
+</TABLE>
