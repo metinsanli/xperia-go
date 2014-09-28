@@ -1,7 +1,7 @@
 ## Sony Xperia Go ST27i
 <img src="http://www-static.se-mc.com/blogs.dir/0/files/2012/05/xperia-go-message-life-gone-documentary.png">
 
-Sony Xperia Go ST27i / Android 4.1.2 / 6.2.A.1.100 hakkında teknik bilgi ihtiva eder.
+Sony Xperia Go ST27i / Android 4.1.2 / 6.2.A.1.100 hakkında teknik dökümandır.
 ## Neler yapılabilir?
 * [Root yapma işlemleri](https://github.com/metinsanli/xperia-go/tree/master/root-yap)
 * [/system/app/ klasörü altındaki uygulamaların açıklamaları](https://github.com/metinsanli/xperia-go/tree/master/apk-bilgileri)
