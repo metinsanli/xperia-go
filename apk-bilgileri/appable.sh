@@ -1,12 +1,13 @@
 #!/bin/sh
 echo
 echo "###########################################"
-echo "versiyon\t: 140928"
-echo "iletisim\t: metinsanli@gmail.com"
-echo "dosya adi\t: "$0
+echo "version\t: 160123"
+echo "mailfrom\t: metinsanli@gmail.com"
+echo "filename\t: "$0
 uname -a
 echo "###########################################"
 echo
+
 pm $1 com.sonyericsson.setupwizard
 pm $1 com.adidas.micoach
 pm $1 com.android.backupconfirm
@@ -22,8 +23,11 @@ pm $1 com.android.vpndialogs
 pm $1 com.android.wallpaper
 pm $1 com.android.wallpaper.holospiral
 pm $1 com.android.wallpaper.livepicker
+pm $1 com.android.vending
 pm $1 com.apksoftware.compass
 pm $1 com.facebook.katana
+pm $1 com.google.android.gms
+pm $1 com.google.android.apps.maps
 pm $1 com.google.android.apps.genie.geniewidget
 pm $1 com.google.android.apps.plus
 pm $1 com.google.android.apps.uploader
@@ -34,6 +38,8 @@ pm $1 com.google.android.street
 pm $1 com.google.android.talk
 pm $1 com.google.android.tts
 pm $1 com.google.android.voicesearch
+pm $1 com.android.vending
+pm $1 com.google.android.youtube
 pm $1 com.mobisystems.office
 pm $1 com.sonyericsson.advancedwidget.notewidget
 pm $1 com.sonyericsson.advancedwidget.photo
