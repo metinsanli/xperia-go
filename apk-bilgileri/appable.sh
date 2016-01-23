@@ -1,10 +1,12 @@
 #!/bin/sh
 echo
 echo "###########################################"
-echo "version\t: 160123"
-echo "mailfrom\t: metinsanli@gmail.com"
-echo "filename\t: "$0
+echo "ver\t: 160123"
+echo "mail\t: metinsanli@gmail.com"
+echo "file\t: "$0
+echo
 uname -a
+echo
 echo "###########################################"
 echo
 
