@@ -14,7 +14,6 @@ pm $1 com.sonyericsson.setupwizard
 pm $1 com.adidas.micoach
 pm $1 com.android.backupconfirm
 pm $1 com.android.chrome
-pm $1 com.android.email
 pm $1 com.android.exchange
 pm $1 com.android.galaxy4
 pm $1 com.android.phasebeam
