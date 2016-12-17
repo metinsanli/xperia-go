@@ -1,5 +1,5 @@
 #!/system/bin/sh
-# if not run to make: chmod 777 appable.sh
+#If the script does not run, do this "chmod 777 appable.sh" and try again.
 echo
 echo "###########################################"
 echo "ver\t: 161217"
@@ -183,7 +183,7 @@ pm $1 com.sonyericsson.pinktheme
 #pm $1 com.sonyericsson.providers.protectedmedia
 #pm $1 com.sonyericsson.psm.sysmonservice
 pm $1 com.sonyericsson.purpletheme
-#pm $1 com.sonyericsson.r2r.client
+pm $1 com.sonyericsson.r2r.client
 pm $1 com.sonyericsson.r2r.client.res.overlay
 #pm $1 com.sonyericsson.secureclockservice
 #pm $1 com.sonyericsson.settings
